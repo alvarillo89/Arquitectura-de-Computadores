@@ -1,5 +1,5 @@
-# Arquitectura-de-Computadores
-Prácticas de la Asignatura Arquitectura de Computadores y Atcgrid
+# Arquitectura de Computadores
+Prácticas de la Asignatura Arquitectura de Computadores.
 
 Autores:
 * Álvaro Fernández García
